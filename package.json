@@ -1,0 +1,13 @@
+{
+  "name": "androz2091-cors-anywhere",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Androz2091 <androz2091@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "cors-anywhere": "^0.4.3"
+  }
+}
